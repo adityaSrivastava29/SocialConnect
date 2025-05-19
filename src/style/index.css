@@ -1,1 +1,4 @@
 /* use a other diff components css for every module this only for global action css */
+.navbar{
+    background-color: rgb(160, 80, 94);
+}

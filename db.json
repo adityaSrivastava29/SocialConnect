@@ -8,7 +8,7 @@
       "mobile": "1234567210",
       "address": "Kallkur",
       "pincode": "606207",
-      "bio": "React",
+      "bio": "React developer",
       "id": 1,
       "coverImg": "assest/banner/images4.jpg",
       "logo": "assest/avatar/alpha-men.jpg"
@@ -36,15 +36,72 @@
       "bio": "MERN Stack",
       "logo": "assest/avatar/photo-men.jpg",
       "id": 3
+    },
+    {
+      "name": "Aditya",
+      "email": "aditya@gmail.com",
+      "avatar": "wre",
+      "phone": "rw",
+      "id": 4
+    },
+    {
+      "name": "Cogni User",
+      "email": "cts@cognizant.com",
+      "avatar": "assest/avatar/chill-guy.jpg",
+      "phone": "812348888",
+      "id": 5
     }
   ],
   "posts": [
     {
       "img": "assest/banner/images3.jpg",
-      "post": "Axios is one of the most popular JavaScript libraries to perform HTTP requests. Axios interceptors are powerful mechanisms built into Axios for making changes to requests and responses in a non-intrusive way. In this guide, you will walk through the basics of Axios interceptors and step through a useful example of how they can be used. By the end, you should have a good understanding of how to use Axios interceptors in your own applications. Let’s get started!",
+      "message": "Axios is one of the most popular JavaScript libraries to perform HTTP requests. Axios interceptors are powerful mechanisms built into Axios for making changes to requests and responses in a non-intrusive way. In this guide, you will walk through the basics of Axios interceptors and step through a useful example of how they can be used. By the end, you should have a good understanding of how to use Axios interceptors in your own applications. Let’s get started!",
       "imgName": "Image 3",
+      "createdAt": "2025-04-16T21:40:24.209Z",
       "userId": 1,
       "id": 1
+    },
+    {
+      "message": "there is nothing",
+      "image": "",
+      "userId": 1,
+      "createdAt": "2025-04-16T21:40:24.209Z",
+      "id": 2
+    },
+    {
+      "message": "njlkj\n",
+      "image": "",
+      "userId": 1,
+      "createdAt": "2025-04-16T21:44:10.501Z",
+      "id": 3
+    },
+    {
+      "message": "error",
+      "image": "blob:http://localhost:3000/2d0ceddd-44cc-412d-b850-69380f51cc65",
+      "userId": 1,
+      "createdAt": "2025-04-17T08:25:09.703Z",
+      "id": 4
+    },
+    {
+      "message": "Hi There",
+      "image": "",
+      "userId": 1,
+      "createdAt": "2025-05-19T05:19:14.137Z",
+      "id": 5
+    },
+    {
+      "message": "Hi There",
+      "image": "blob:http://localhost:3000/7a17bab0-d443-440e-8caa-21631f99ad4c",
+      "userId": 1,
+      "createdAt": "2025-05-19T05:24:12.273Z",
+      "id": 6
+    },
+    {
+      "message": "Hi",
+      "image": "",
+      "userId": 1,
+      "createdAt": "2025-05-19T05:44:58.804Z",
+      "id": 7
     }
   ]
 }
