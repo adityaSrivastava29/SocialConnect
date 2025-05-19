@@ -1,0 +1,50 @@
+{
+  "users": [
+    {
+      "name": "Manoj",
+      "role": "Developer",
+      "email": "manoj@mail.com",
+      "password": "password",
+      "mobile": "1234567210",
+      "address": "Kallkur",
+      "pincode": "606207",
+      "bio": "React",
+      "id": 1,
+      "coverImg": "assest/banner/images4.jpg",
+      "logo": "assest/avatar/alpha-men.jpg"
+    },
+    {
+      "name": "Sundar Saam",
+      "role": "Tester",
+      "email": "sundar@saar.in",
+      "password": "password",
+      "mobile": "9874563210",
+      "address": "Pallakur",
+      "pincode": "606207",
+      "bio": "Civil engineer, QC",
+      "id": 2,
+      "logo": "assest/avatar/photo-men.jpg"
+    },
+    {
+      "name": "Naveen",
+      "role": "developer",
+      "email": "naveen@mail.com",
+      "password": "123456",
+      "mobile": "7410258963",
+      "address": "villa",
+      "pincode": "640235",
+      "bio": "MERN Stack",
+      "logo": "assest/avatar/photo-men.jpg",
+      "id": 3
+    }
+  ],
+  "posts": [
+    {
+      "img": "assest/banner/images3.jpg",
+      "post": "Axios is one of the most popular JavaScript libraries to perform HTTP requests. Axios interceptors are powerful mechanisms built into Axios for making changes to requests and responses in a non-intrusive way. In this guide, you will walk through the basics of Axios interceptors and step through a useful example of how they can be used. By the end, you should have a good understanding of how to use Axios interceptors in your own applications. Let’s get started!",
+      "imgName": "Image 3",
+      "userId": 1,
+      "id": 1
+    }
+  ]
+}
