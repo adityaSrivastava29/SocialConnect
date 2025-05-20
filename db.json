@@ -50,6 +50,38 @@
       "avatar": "assest/avatar/chill-guy.jpg",
       "phone": "812348888",
       "id": 5
+    },
+    {
+      "name": "Aditya Kumar",
+      "email": "adityasrivastava@gmail.com",
+      "avatar": "test",
+      "phone": "08840591934",
+      "id": 6
+    },
+    {
+      "name": "test",
+      "email": "Namo@gmail.com",
+      "avatar": "text",
+      "phone": "08840591934",
+      "role": "admin",
+      "password": "asdf@1234",
+      "address": "VILLAGE-NAHAUNA, POST-NAHAUNA",
+      "bio": "deve",
+      "pincode": "821323",
+      "logo": {},
+      "id": 7
+    },
+    {
+      "name": "test",
+      "email": "Namo@gmail.com",
+      "phone": "088405934",
+      "role": "admin",
+      "password": "asdf@1234",
+      "address": "VILLAGE-NAHAUNA, POST-NAHAUNA",
+      "bio": "erqwe",
+      "pincode": "82123",
+      "logo": {},
+      "id": 8
     }
   ],
   "posts": [
